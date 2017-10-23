@@ -39,7 +39,7 @@ You can support Yotsugi bot on my Patreon - <https://www.patreon.com/YotsugiBot>
 
 
 ## Fun
-**`;roll`** |
+**`;roll`** 
 - Rolls dice (in NdN format). | e.g. `;roll 5d50` |
 
 **`;8ball`** or **`;eightball`** 
