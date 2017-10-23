@@ -90,7 +90,7 @@ You can support Yotsugi bot on my Patreon - <https://www.patreon.com/YotsugiBot>
 
 
 ## Searches
-**`;ud`**|
+**`;ud`**
 - Searches your word on Urban Dictionary. | e.g. `;ud Discord` |
 
 **`;safebooru`** 
