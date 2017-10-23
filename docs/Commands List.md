@@ -110,5 +110,5 @@ You can support Yotsugi bot on my Patreon - <https://www.patreon.com/YotsugiBot>
 **`;setgame`** 
 - Sets the bot's playing status | e.g. `;setgame a game` |
 
-###### [Back to Top](#table-of-contents)
+###### [Back to Top](#commands-list)
 
