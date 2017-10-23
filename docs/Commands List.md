@@ -92,6 +92,7 @@ You can support Yotsugi bot on my Patreon - <https://www.patreon.com/YotsugiBot>
 ## Searches
 **`;ud`**|
 - Searches your word on Urban Dictionary. | e.g. `;ud Discord` |
+
 **`;safebooru`** 
 - Searches for images with a given tag on Safebooru. | e.g. `;safebooru Cute` |
 
