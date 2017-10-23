@@ -22,10 +22,10 @@ You can support Yotsugi bot on my Patreon - <https://www.patreon.com/YotsugiBot>
 **`;mute`**
 - Mutes a user from the Channel. **Requires Mute Members Permission.** | e.g. `;mute @Night` |
 
-**`;unmute` **
+**`;unmute`**
 - Unmutes a user from the Channel. **Requires Mute Members Permission.** | e.g. `;unmute @Night` |
 
-**`;clear`**, **`;prune`**, or **`;purge` **
+**`;clear`**, **`;prune`**, or **`;purge`**
 - Deletes `X` amount of messages from the channel (up to 100). **Requires Manage Messages Permission.** | e.g. `.clear 50` |
 
 **`;setrole`** or **`;setrl`** 
@@ -99,10 +99,13 @@ You can support Yotsugi bot on my Patreon - <https://www.patreon.com/YotsugiBot>
 ## Bot Owners Only
 **`;update`** 
 - Updates your bot (FOR LINUX ONLY).	 | e.g. `;update` |
+
 **`;send`** 
 - Sends a DM to the specified user through your bot.	 | e.g. `;send @Night Hi	` |
+
 **`;shutdown`** 
 - Shuts down the bot. | e.g. `;shutdown` |
+
 **`;setgame`** 
 - Sets the bot's playing status | e.g. `;setgame a game` |
 
